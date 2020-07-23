@@ -1,8 +1,8 @@
 <h1 align='center'>Mnem2Hex</h1> <br>
 <b><b1>Mnemonics to Hex code convertor</b1> <br> </b>
 This application seamlessly converts the entered Mnemonics to Hex code for the 8085 microprocessors, avoiding the hustle and confusion to look through references.<br>
-
-Instructions for using the application<br>
+<p>
+<u>Instructions for using the application</u><br>
 1.Enter the mnemonic<br>
 2.Click on Convert.<br>
 3.The corresponding Hex code is displayed.<br>
