@@ -9,6 +9,16 @@ Instructions for using the application<br>
 3.The corresponding Hex code is displayed.<br>
 it's that simple.<br>
 
+**Some photos: -** <br>
+<table>
+  <tr>
+  
+<td><img src="https://i.ibb.co/6PJDKV7/B6m-Hlz-Sb-OSmcz0-Yn0-Mn-K4ywts-S6-Wdf-Hrvp-CAqv-M9-Qyp-Mk-GSIOOylc-PVn7y9q3-Z-tl-Q-w1366-h625-rw.webp" width="300"></td>
+<td><img src="https://i.ibb.co/sgYb3wW/Sc-D0jm-Vg1azzp-T1-SZzt-Ltx-Zi2m6jofbm-Tvp4-Pp-b-I-kw-Pt2jxr-Ng-DU01x-Gl04-Sr6k-M-w1366-h625-rw.webp" width="300"></td>
+<td><img src="https://i.ibb.co/jybGzK8/H7-Wbqp-Nd-CX-PTY4r-Fev-Ea-B16n-Wh-TUl94-R7-KQaauow-SR5-DNh-A3-Ef-Og-Th7-HVQ7v-ZEHW8-w1366-h625-rw.webp" width="300"></td>
+<td><img src="https://i.ibb.co/rbMvdcf/exwj-Wii-Gv9-QWY0vwat4-T8-No-F3-JNBM1-CE2-pao-SYHZUtdn-K1-HGk1-Nb-Dy-u3-PI-T0-AA-w1366-h625-rw.webp" width="300"></td>
+</tr>
+</table>
 
 **Link to the App:**
 -----------------------------------------------------------------
